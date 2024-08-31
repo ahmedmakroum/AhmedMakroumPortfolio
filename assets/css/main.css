@@ -3918,3 +3918,10 @@ input, select, textarea {
     align-items: center; /* Centers the content horizontally */
     text-align: center;
 }
+.custom-mobile-img {
+    max-width: 50%; /* Adjust this value as needed */
+    margin: 0 auto;
+    display: block;
+    padding: 10px; /* Optional: Adjust padding */
+}
+
